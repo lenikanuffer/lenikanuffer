@@ -7,7 +7,7 @@
 
 🏠 I currently live in Berlin, Germany 
 
-🎨 I am a visual artist, learning how to code 💻 �
+🎨 I am a visual artist, learning how to code 💻
 
 You can contact me by <a href="mailto:nufferlenika@gmail.com"><b>email</b></a>
 or send me a letter 💌. That's how it works in Germany. 
