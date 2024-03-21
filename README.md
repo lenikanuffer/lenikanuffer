@@ -12,7 +12,7 @@
 You can contact me by <a href="mailto:nufferlenika@gmail.com"><b>email</b></a>
 or send me a letter 💌. That's how it works in Germany. 
 
-<a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="[https://www.linkedin.com/in/](https://de.linkedin.com/in/lenika-nuffer-ba6282246)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 This is a change 
